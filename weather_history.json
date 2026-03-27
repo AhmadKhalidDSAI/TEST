@@ -1,0 +1,164 @@
+[
+  {
+    "city_name": "Amman",
+    "date": "2025-08-31",
+    "temp_C": 22.05,
+    "humidity": 40,
+    "wind_speed": 2.57,
+    "desc": "clear sky",
+    "scraped_temp_C": 23.0
+  },
+  {
+    "city_name": "As Salt",
+    "date": "2025-08-31",
+    "temp_C": 21.6,
+    "humidity": 70,
+    "wind_speed": 1.02,
+    "desc": "clear sky",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Irbid",
+    "date": "2025-08-31",
+    "temp_C": 22.84,
+    "humidity": 78,
+    "wind_speed": 4.42,
+    "desc": "clear sky",
+    "scraped_temp_C": 23.0
+  },
+  {
+    "city_name": "Zarqa",
+    "date": "2025-08-31",
+    "temp_C": 22.95,
+    "humidity": 40,
+    "wind_speed": 2.57,
+    "desc": "clear sky",
+    "scraped_temp_C": 23.0
+  },
+  {
+    "city_name": "Aqaba",
+    "date": "2025-08-31",
+    "temp_C": 30.11,
+    "humidity": 28,
+    "wind_speed": 7.72,
+    "desc": "dust",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Mafraq",
+    "date": "2025-08-31",
+    "temp_C": 21.69,
+    "humidity": 63,
+    "wind_speed": 2.13,
+    "desc": "clear sky",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Amman",
+    "date": "2025-08-31",
+    "temp_C": 22.05,
+    "humidity": 40,
+    "wind_speed": 2.57,
+    "desc": "clear sky",
+    "scraped_temp_C": 23.0
+  },
+  {
+    "city_name": "As Salt",
+    "date": "2025-08-31",
+    "temp_C": 21.6,
+    "humidity": 70,
+    "wind_speed": 1.02,
+    "desc": "clear sky",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Irbid",
+    "date": "2025-08-31",
+    "temp_C": 22.84,
+    "humidity": 78,
+    "wind_speed": 4.42,
+    "desc": "clear sky",
+    "scraped_temp_C": 23.0
+  },
+  {
+    "city_name": "Zarqa",
+    "date": "2025-08-31",
+    "temp_C": 22.95,
+    "humidity": 40,
+    "wind_speed": 2.57,
+    "desc": "clear sky",
+    "scraped_temp_C": 23.0
+  },
+  {
+    "city_name": "Aqaba",
+    "date": "2025-08-31",
+    "temp_C": 30.11,
+    "humidity": 28,
+    "wind_speed": 7.72,
+    "desc": "dust",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Mafraq",
+    "date": "2025-08-31",
+    "temp_C": 21.69,
+    "humidity": 63,
+    "wind_speed": 2.13,
+    "desc": "clear sky",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Amman",
+    "date": "2025-09-01",
+    "temp_C": 22.05,
+    "humidity": 43,
+    "wind_speed": 3.09,
+    "desc": "clear sky",
+    "scraped_temp_C": 22.0
+  },
+  {
+    "city_name": "As Salt",
+    "date": "2025-09-01",
+    "temp_C": 21.6,
+    "humidity": 62,
+    "wind_speed": 1.88,
+    "desc": "clear sky",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Irbid",
+    "date": "2025-09-01",
+    "temp_C": 24.35,
+    "humidity": 67,
+    "wind_speed": 5.27,
+    "desc": "clear sky",
+    "scraped_temp_C": 21.0
+  },
+  {
+    "city_name": "Zarqa",
+    "date": "2025-09-01",
+    "temp_C": 22.95,
+    "humidity": 43,
+    "wind_speed": 3.09,
+    "desc": "clear sky",
+    "scraped_temp_C": 22.0
+  },
+  {
+    "city_name": "Aqaba",
+    "date": "2025-09-01",
+    "temp_C": 27.11,
+    "humidity": 41,
+    "wind_speed": 4.63,
+    "desc": "haze",
+    "scraped_temp_C": null
+  },
+  {
+    "city_name": "Mafraq",
+    "date": "2025-09-01",
+    "temp_C": 23.11,
+    "humidity": 52,
+    "wind_speed": 3.62,
+    "desc": "clear sky",
+    "scraped_temp_C": null
+  }
+]
